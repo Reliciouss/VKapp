@@ -1,0 +1,8 @@
+{
+  "name": "node-vk",
+  "description": "simple node proj with auth",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
