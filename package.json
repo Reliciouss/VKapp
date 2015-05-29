@@ -1,8 +1,11 @@
 {
-  "name": "node-vk",
-  "description": "simple node proj with auth",
-  "main": "server.js",
+  "name": "node-chat",
+  "description": "realtime chat",
+  "main": "app.js",
   "dependencies": {
-    "express": "^4.12.4"
+    "socket.io": "latest",
+    "express": "latest",
+    "jade": "latest",
+    "gravatar": "latest"
   }
 }
